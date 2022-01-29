@@ -1,0 +1,11 @@
+# ninja log v5
+1	194	6651742003004353	build.ninja	8500e318e82c34dd
+1	373	6651742007638565	CMakeFiles/cubicRoots.dir/main.cpp.obj	761ed13d758fd08
+3	403	6651742007918825	CMakeFiles/cubicRoots.dir/cubicSolver.cpp.obj	497a129b0229382c
+403	521	6651742009094545	cubicRoots.exe	aa9e27b1bccdf729
+2	310	6651742123184285	CMakeFiles/cubicRoots.dir/main.cpp.obj	761ed13d758fd08
+310	412	6651742124175188	cubicRoots.exe	aa9e27b1bccdf729
+3	309	6651742565322528	CMakeFiles/cubicRoots.dir/main.cpp.obj	761ed13d758fd08
+309	410	6651742566323473	cubicRoots.exe	aa9e27b1bccdf729
+2	318	6651744278067150	CMakeFiles/cubicRoots.dir/main.cpp.obj	761ed13d758fd08
+346	451	6651744279345508	cubicRoots.exe	aa9e27b1bccdf729
